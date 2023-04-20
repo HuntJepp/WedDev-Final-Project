@@ -1,0 +1,37 @@
+.tableauViz {
+    height: 500px;
+    width: 2000px;
+}
+.img-BYU {
+    max-width: 60%;
+    height: auto;
+}
+.img-statefarm {
+    max-width: 60%;
+    height: auto;
+}
+.font-climb {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 5px;
+    color: white;
+}
+.font-rock {
+    font-size: x-large;
+    font-weight: lighter;
+}
+.bg-color {
+    background-color: #93b1bb;
+}
+.hyper-text {
+    font-size: 25px;
+    list-style-type: none;
+    display: inline-block;
+}
+.what-is {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: #21353c;
+}
